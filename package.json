@@ -1,0 +1,16 @@
+{
+  "name": "linq2json",
+  "version": "1.0.0",
+  "description": "A simple library to query json objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "main.js",
+    "test": "./node_modules/.bin/jasmine-node index.spec.js"
+  },
+  "author": "khawar jamil",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "rewire": "^4.0.0"
+  }
+}
